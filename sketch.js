@@ -1,4 +1,4 @@
-const matrixBoard = math.matrix([
+const matrixBoard = Math.matrix([
     [0,0,0,0,0,0,0,0],
     [0,0,0,0,0,0,0,0],
     [0,0,0,0,0,0,0,0],
@@ -8,4 +8,4 @@ const matrixBoard = math.matrix([
     [0,0,0,0,0,0,0,0],
     [0,0,0,0,0,0,0,0]
 ]);
-console.log('hello');
+console.log(matrixBoard);
