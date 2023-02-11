@@ -1,4 +1,4 @@
-const matrixBoard = ([
+const matrixBoard = math.matrix([
     [0,0,0,0,0,0,0,0],
     [0,0,0,0,0,0,0,0],
     [0,0,0,0,0,0,0,0],
